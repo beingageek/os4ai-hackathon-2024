@@ -1,0 +1,596 @@
+[
+  {
+    "brand": "--",
+    "title": "Disposable Toothbrushes with Toothpaste,300 Pack Yellow Hollow Individually Wrapped Disposable Travel Toothbrushes Kit in Bulk for Homeless,Nursing Home,Hotel,Charity",
+    "rating": 4.3,
+    "rating_count": 132,
+    "price": "$50.99",
+    "recent_sales": "200",
+    "unit_price": "$0.17"
+  },
+  {
+    "brand": "--",
+    "title": "EUTHYMOL Original Toothpaste (3.7fl oz, Pack of 5) - Fluoride-Free Toothpaste for Sensitive Teeth & Gum. Bad Breath, Cavity Prevention, 12-Hour Long Lasting Freshness with Wintergreen.",
+    "rating": 4.3,
+    "rating_count": 471,
+    "price": "$45.00",
+    "recent_sales": "1000",
+    "unit_price": "$2.43"
+  },
+  {
+    "brand": "--",
+    "title": "Handheld Stainless Steel Toothpaste Squeezer 5 Piece Tube Roller Set Ergonomic Labor Saving Cream Extractor Homeware",
+    "rating": "na",
+    "rating_count": "na",
+    "price": "$9.89",
+    "recent_sales": 0,
+    "unit_price": "$9.89"
+  },
+  {
+    "brand": "--",
+    "title": "Jordan Green Clean Manual Toothbrush - Sustainable, Eco-Friendly Scandinavian Design, Soft Bristles, Mixed Colors, 4 Units",
+    "rating": 4.6,
+    "rating_count": 1540,
+    "price": "$9.90",
+    "recent_sales": "2000",
+    "unit_price": "$2.48"
+  },
+  {
+    "brand": "--",
+    "title": "Parodontax Active Gum Repair Breath Freshener Toothpaste, 3x3.4 oz",
+    "rating": 4.7,
+    "rating_count": 923,
+    "price": "$20.97",
+    "recent_sales": "10000",
+    "unit_price": "$2.06"
+  },
+  {
+    "brand": "--",
+    "title": "Sonic Electric Toothbrush for Adults, Rechargeable Toothbrush with 6 Mode & 3 Intensity, 40000VPM Toothbrush with 6 Brush Heads, Travel Case, 60 Days Battery Life, Wireless Charging, 2-Min Smart Timer",
+    "rating": 4.5,
+    "rating_count": 986,
+    "price": "$53.99",
+    "recent_sales": "100",
+    "unit_price": "$53.99"
+  },
+  {
+    "brand": "--",
+    "title": "Toothpaste Tablets (Mint, 180 Count) with Fluoride, Teeth Whitening Eco Friendly Travel Toothpaste Bites, Sensitive Teeth - Dentist Recommended for Adult, Kids Oral Care",
+    "rating": 3.6,
+    "rating_count": 51,
+    "price": "$28.99",
+    "recent_sales": 0,
+    "unit_price": "$0.16"
+  },
+  {
+    "brand": "--",
+    "title": "XyloBurst Fresh Breath Oral Rinse Mouth Wash with Natural Xylitol - Alcohol-Free, Fluoride Free, SLS Free Cool Mint (3 Pack 16 Ounce)",
+    "rating": 4.6,
+    "rating_count": 198,
+    "price": "$28.99",
+    "recent_sales": "600",
+    "unit_price": "$0.60"
+  },
+  {
+    "brand": "Arm & Hammer",
+    "title": "Arm & Hammer Advance White Toothpaste, Clean Mint Flavor, Stain Defense Technology, 6 Ounce (Pack of 4)",
+    "rating": 4.7,
+    "rating_count": 5922,
+    "price": "$13.96",
+    "recent_sales": "20000",
+    "unit_price": "$0.58"
+  },
+  {
+    "brand": "Arm & Hammer",
+    "title": "Arm & Hammer Peroxicare Toothpaste, Clean Mint Flavor, Improves Gum Health, 6.0oz (4-Pack)",
+    "rating": 4.7,
+    "rating_count": 18341,
+    "price": "$13.40",
+    "recent_sales": "10000",
+    "unit_price": "$0.56"
+  },
+  {
+    "brand": "Boka",
+    "title": "Boka Fluoride Free Toothpaste - Nano Hydroxyapatite, Remineralizing, Sensitive Teeth, Whitening - Dentist Recommended for Adult & Kids Oral Care - Ela Mint Flavor, 4 Fl Oz 1 Pk - US Manufactured",
+    "rating": 4.5,
+    "rating_count": 35485,
+    "price": "$11.99",
+    "recent_sales": "80000",
+    "unit_price": "$3.00"
+  },
+  {
+    "brand": "COSLUS",
+    "title": "COSLUS Electric Toothbrush for Adults and Kids: Wireless Rechargeable Tooth Brush for Kid Ages 12+ and Adult with Portable Travel Case, 5 Modes 47000 VPM Power Toothbrushes 6 Brush Heads Black",
+    "rating": 4.7,
+    "rating_count": 356,
+    "price": "$19.99",
+    "recent_sales": "10000",
+    "unit_price": "$19.99"
+  },
+  {
+    "brand": "COSLUS",
+    "title": "COSLUS Electric Toothbrush for Adults and Kids: Wireless Rechargeable Tooth Brush for Kid Ages 12+ and Adult with Portable Travel Case, 5 Modes 47000 VPM Power Toothbrushes 6 Brush Heads Green",
+    "rating": 4.7,
+    "rating_count": 356,
+    "price": "$19.99",
+    "recent_sales": "3000",
+    "unit_price": "$19.99"
+  },
+  {
+    "brand": "Cocofloss",
+    "title": "Cocofloss Cocoshine Whitening Toothpaste, Remineralize & Repair Sensitive Teeth, Fluoride-Free with n-HA, Kid-Friendly, Delicious Mint, 3.4 oz",
+    "rating": 4.3,
+    "rating_count": 170,
+    "price": "$22.00",
+    "recent_sales": "2000",
+    "unit_price": "$6.47"
+  },
+  {
+    "brand": "Coconut",
+    "title": "Coconut Pulling Oil - Ayurvedic Mint Oil Pulling Mouthwash with Tongue Scraper | Natural Essential Oils for Fresh Breath, Teeth Whitening & Healthy Gums | Alcohol-Free 8 Fl. Oz",
+    "rating": 4.4,
+    "rating_count": 311,
+    "price": "$9.99",
+    "recent_sales": "1000",
+    "unit_price": "$1.25"
+  },
+  {
+    "brand": "Colgate",
+    "title": "Colgate 360 Vibrate Deep Clean Battery Operated Toothbrush Pack, Disposable Electric Toothbrush with 1 AAA Battery Included, Whole Mouth Clean, 2 Pack",
+    "rating": 4.6,
+    "rating_count": 13465,
+    "price": "$9.32",
+    "recent_sales": "10000",
+    "unit_price": "$4.66"
+  },
+  {
+    "brand": "Colgate",
+    "title": "Colgate Baking Soda & Peroxide Toothpaste - Whitens Teeth, Fights Cavities & Removes Stains, Brisk Mint, 6 Ounce (Pack of 2)",
+    "rating": 4.7,
+    "rating_count": 76192,
+    "price": "$3.78",
+    "recent_sales": "50000",
+    "unit_price": "$0.32"
+  },
+  {
+    "brand": "Colgate",
+    "title": "Colgate Cavity Protection Regular Fluoride Toothpaste, White, 6 oz",
+    "rating": 4.7,
+    "rating_count": 3851,
+    "price": "$1.97",
+    "recent_sales": "20000",
+    "unit_price": "$0.33"
+  },
+  {
+    "brand": "Colgate",
+    "title": "Colgate Cavity Protection Toothpaste with Fluoride, Great Regular Flavor, 6 Ounce (Pack of 6)",
+    "rating": 4.8,
+    "rating_count": 62570,
+    "price": "$11.82",
+    "recent_sales": "20000",
+    "unit_price": "$0.33"
+  },
+  {
+    "brand": "Colgate",
+    "title": "Colgate Max Fresh Whitening Toothpaste with Mini Strips, Clean Mint Toothpaste for Bad Breath, Helps Fight Cavities, Whitens Teeth, and Freshens Breath, 6.3 Ounce (Pack of 4)",
+    "rating": 4.8,
+    "rating_count": 7645,
+    "price": "$10.65",
+    "recent_sales": "40000",
+    "unit_price": "$0.42"
+  },
+  {
+    "brand": "Colgate",
+    "title": "Colgate Optic White Advanced Hydrogen Peroxide Toothpaste Pack, Teeth Whitening Toothpaste, Enamel-Safe Hydrogen Peroxide Formula, Helps Remove Tea, Coffee, and Wine Stains, Icy Fresh, 3 Pack, 3.2 oz",
+    "rating": 4.7,
+    "rating_count": 45561,
+    "price": "$13.69",
+    "recent_sales": "8000",
+    "unit_price": "$1.43"
+  },
+  {
+    "brand": "Colgate",
+    "title": "Colgate Optic White Advanced Hydrogen Peroxide Toothpaste, Teeth Whitening Toothpaste Pack, Enamel-Safe Formula, Helps Remove Tea, Coffee, and Wine Stains, Sparkling White, 3 Pack, 3.2 oz",
+    "rating": 4.7,
+    "rating_count": 45561,
+    "price": "$12.95",
+    "recent_sales": "70000",
+    "unit_price": "$1.35"
+  },
+  {
+    "brand": "Colgate",
+    "title": "Colgate Optic White Renewal Teeth Whitening Toothpaste, Whitening Fluoride Toothpaste, Effectively Removes Tea, Coffee, and Wine Stains, Made with Hydrogen Peroxide, Brilliant Shine, 3 Pack, 3.0 oz",
+    "rating": 4.6,
+    "rating_count": 38717,
+    "price": "$26.67",
+    "recent_sales": "5000",
+    "unit_price": "$2.96"
+  },
+  {
+    "brand": "Colgate",
+    "title": "Colgate Peroxyl Antiseptic Mouthwash and Mouth Sore Rinse, 1.5% Hydrogen Peroxide, Mild Mint - 500ml, 16.9 Fluid Ounces",
+    "rating": 4.7,
+    "rating_count": 37416,
+    "price": "$10.96",
+    "recent_sales": "20000",
+    "unit_price": "$0.65"
+  },
+  {
+    "brand": "Colgate",
+    "title": "Colgate Sensitive Toothpaste, Complete Protection, Mint - 6 Ounce (Pack of 3)",
+    "rating": 4.7,
+    "rating_count": 30560,
+    "price": "$13.44",
+    "recent_sales": "10000",
+    "unit_price": "$0.75"
+  },
+  {
+    "brand": "Colgate",
+    "title": "Colgate Total Plaque Pro Release Whitening Toothpaste, 2 Pack, 3.0 Oz Tubes",
+    "rating": 4.6,
+    "rating_count": 7236,
+    "price": "$11.54",
+    "recent_sales": "10000",
+    "unit_price": "$1.92"
+  },
+  {
+    "brand": "Colgate",
+    "title": "Colgate Total Whitening Toothpaste Gel, 10 Benefits, No Trade-Offs, Freshens Breath, Whitens Teeth and Provides Sensitivity Relief, Mint Flavor, 4 Pack, 5.1 Oz Tubes",
+    "rating": 4.8,
+    "rating_count": 7513,
+    "price": "$15.31",
+    "recent_sales": "10000",
+    "unit_price": "$0.75"
+  },
+  {
+    "brand": "Colgate",
+    "title": "Colgate Total Whitening Toothpaste with Fluoride, 10 Benefits Including Sensitivity Relief and Stain Removal, Mint, 5.1 ounces (4 Pack)",
+    "rating": 4.8,
+    "rating_count": 7513,
+    "price": "$13.27",
+    "recent_sales": "20000",
+    "unit_price": "$0.65"
+  },
+  {
+    "brand": "Colgate",
+    "title": "Colgate Total Whitening Toothpaste, Mint Toothpaste, 5.1 oz Tube, 2 Pack",
+    "rating": 4.8,
+    "rating_count": 7513,
+    "price": "$7.32",
+    "recent_sales": "10000",
+    "unit_price": "$0.72"
+  },
+  {
+    "brand": "Colgate",
+    "title": "Colgate Total Whitening Travel Toothpaste, Mint Toothpaste for Travel, Carry-On Size Toothpaste, 1.4 Oz Tube",
+    "rating": 4.8,
+    "rating_count": 7513,
+    "price": "$1.97",
+    "recent_sales": "6000",
+    "unit_price": "$1.41"
+  },
+  {
+    "brand": "Colgate",
+    "title": "Colgate Whitening Toothpaste for Sensitive Teeth, Enamel Repair and Cavity Protection, Fresh Mint Gel, 6 Oz (Pack of 3)",
+    "rating": 4.7,
+    "rating_count": 30560,
+    "price": "$12.42",
+    "recent_sales": "20000",
+    "unit_price": "$0.69"
+  },
+  {
+    "brand": "Crest",
+    "title": "Crest + Scope Whitening Toothpaste - Pack of 3, 5.4 Oz Tubes - Anticavity Fluoride Toothpaste, Fresh Breath, Kills Germs - Tartar Protection, Enamel Protection - Minty Fresh Flavor",
+    "rating": 4.8,
+    "rating_count": 44216,
+    "price": "$8.99",
+    "recent_sales": "60000",
+    "unit_price": "$0.55"
+  },
+  {
+    "brand": "Crest",
+    "title": "Crest 3D White Advanced Luminous Mint Teeth Whitening Toothpaste, Crest Toothpaste, 3.7 oz Pack of 4 - Helps Remove Surface Stains, Whitens Teeth, Strengthens Tooth Enamel, Protects Against Cavities",
+    "rating": 4.8,
+    "rating_count": 93632,
+    "price": "$14.99",
+    "recent_sales": "100000",
+    "unit_price": "$1.01"
+  },
+  {
+    "brand": "Crest",
+    "title": "Crest 3D White Advanced Teeth Whitening Toothpaste, Crest 3D White Brilliance Toothpaste, Radiant Mint, 3.3 oz, Pack of 3",
+    "rating": 4.8,
+    "rating_count": 783,
+    "price": "$12.97",
+    "recent_sales": "10000",
+    "unit_price": "$1.31"
+  },
+  {
+    "brand": "Crest",
+    "title": "Crest 3D White Advanced Teeth Whitening Toothpaste, Radiant Mint, 3.3 oz, Pack of 2",
+    "rating": 4.6,
+    "rating_count": 719,
+    "price": "$8.97",
+    "recent_sales": "10000",
+    "unit_price": "$1.36"
+  },
+  {
+    "brand": "Crest",
+    "title": "Crest 3D White Brilliance Bright Mint Teeth Whitening Toothpaste, 4.3 oz Pack of 3, 100% More Surface Stain Removal, 24 Hour Active Stain Prevention, Whiter Teeth in 3 Days",
+    "rating": 4.6,
+    "rating_count": 85,
+    "price": "$20.99",
+    "recent_sales": "3000",
+    "unit_price": "$1.63"
+  },
+  {
+    "brand": "Crest",
+    "title": "Crest 3D White Brilliance Vibrant Peppermint Teeth Whitening Toothpaste, 4.6 oz Pack of 3, Anticavity Fluoride Toothpaste, 100% More Surface Stain Removal, 24 Hour Active Stain Prevention",
+    "rating": 4.8,
+    "rating_count": 1529,
+    "price": "$18.97",
+    "recent_sales": "20000",
+    "unit_price": "$1.37"
+  },
+  {
+    "brand": "Crest",
+    "title": "Crest Base Pro-Health Whitening Toothpaste (4.3oz) Triple Pack, Crest Toothpaste Whitening, Teeth Whitening Toothpaste",
+    "rating": 4.8,
+    "rating_count": 3156,
+    "price": "$8.97",
+    "recent_sales": "9000",
+    "unit_price": "$0.70"
+  },
+  {
+    "brand": "Crest",
+    "title": "Crest Cavity & Tartar Protection Toothpaste, Whitening Baking Soda & Peroxide, 5.7 oz, Pack of 2",
+    "rating": 4.3,
+    "rating_count": 711,
+    "price": "$6.29",
+    "recent_sales": "6000",
+    "unit_price": "$0.55"
+  },
+  {
+    "brand": "Crest",
+    "title": "Crest Kids Advanced Fluoride Toothpaste, Bubblegum Flavor, 4.2 oz, 3 Count, Color-Changing Anticavity Toothpaste, Crest Kids Toothpaste, Kids Toothpaste with Fluoride",
+    "rating": 4.7,
+    "rating_count": 1528,
+    "price": "$11.91",
+    "recent_sales": "10000",
+    "unit_price": "$2.84"
+  },
+  {
+    "brand": "Crest",
+    "title": "Crest Pro-Health Advanced Antibacterial Protection Toothpaste, Crest Toothpaste, Crest Pro Health Toothpaste - Pack of 4, 5 Oz Tubes",
+    "rating": 4.7,
+    "rating_count": 9047,
+    "price": "$14.91",
+    "recent_sales": "10000",
+    "unit_price": "$0.75"
+  },
+  {
+    "brand": "Crest",
+    "title": "Crest Pro-Health Clean Mint Toothpaste (4.3oz) Triple Pack",
+    "rating": 4.7,
+    "rating_count": 32238,
+    "price": "$8.97",
+    "recent_sales": "20000",
+    "unit_price": "$0.70"
+  },
+  {
+    "brand": "Crest",
+    "title": "Crest Pro-Health Clean Mint Toothpaste (4.3oz) Twin Pack",
+    "rating": 4.8,
+    "rating_count": 896,
+    "price": "$6.99",
+    "recent_sales": "4000",
+    "unit_price": "$0.81"
+  },
+  {
+    "brand": "Crest",
+    "title": "Crest Pro-Health Gum Detoxify Deep Clean Toothpaste 2.6 oz - Anticavity, Antibacterial Flouride Toothpaste, Clinically Proven, Gum and Enamel Protection, Plaque Control",
+    "rating": 4.6,
+    "rating_count": 492,
+    "price": "$5.00",
+    "recent_sales": "7000",
+    "unit_price": "$1.92"
+  },
+  {
+    "brand": "Crest",
+    "title": "Crest Pro-Health Gum Detoxify Deep Clean Toothpaste, 4.8 oz Pack of 3 - Anticavity, Antibacterial Flouride Toothpaste, Clinically Proven, Gum and Enamel Protection, Plaque Control",
+    "rating": 4.8,
+    "rating_count": 2137,
+    "price": "$18.97",
+    "recent_sales": "20000",
+    "unit_price": "$1.32"
+  },
+  {
+    "brand": "Crest",
+    "title": "Crest Whitening Plus Scope, Complete Active Fresh + Whitening Toothpaste, 5.5oz, Toothpaste Sensitive Teeth, Pack of 4",
+    "rating": 4.7,
+    "rating_count": 4692,
+    "price": "$10.99",
+    "recent_sales": "20000",
+    "unit_price": "$2.75"
+  },
+  {
+    "brand": "Dr. Sheffield",
+    "title": "Dr. Sheffield\u00e2\u20ac\u2122s Certified Natural Toothpaste (Extra-Whitening) - Great Tasting, Fluoride Free Toothpaste/Freshen Your Breath, Whiten Your Teeth, Reduce Plaque (2-Pack)",
+    "rating": 4.4,
+    "rating_count": 13227,
+    "price": "$12.99",
+    "recent_sales": "4000",
+    "unit_price": "$1.30"
+  },
+  {
+    "brand": "Hello",
+    "title": "Hello Antiplaque Toothpaste, Fluoride Free for Teeth Whitening with Natural Peppermint Flavor and Tea Tree Oil, Peroxide Free, Gluten Free, SLS Free, 3 Pack, 4.7 OZ Tubes",
+    "rating": 4.8,
+    "rating_count": 6730,
+    "price": "$14.91",
+    "recent_sales": "30000",
+    "unit_price": "$1.06"
+  },
+  {
+    "brand": "Lumineux",
+    "title": "Lumineux Teeth Whitening Toothpaste 2 Pack Peroxide Free Enamel Safe for Sensitive Whiter Teeth Certified Non-Toxic, Fluoride Free, No Alcohol, Artificial Colors, SLS Free Dentist Formulated - 3.75 Oz",
+    "rating": 4.2,
+    "rating_count": 6917,
+    "price": "$13.96",
+    "recent_sales": "40000",
+    "unit_price": "$1.86"
+  },
+  {
+    "brand": "Marvis",
+    "title": "Marvis Whitening Mint Toothpaste",
+    "rating": 4.5,
+    "rating_count": 8937,
+    "price": "$13.50",
+    "recent_sales": "30000",
+    "unit_price": "$3.55"
+  },
+  {
+    "brand": "PerioSciences",
+    "title": "PerioSciences AO ProRinse Sensitive Gums Mouthwash with Antioxidants \u00e2\u20ac\u201c Oral Rinse for Gum Health \u00e2\u20ac\u201c 10 fl oz / 300ml",
+    "rating": 4.5,
+    "rating_count": 406,
+    "price": "$18.50",
+    "recent_sales": "200",
+    "unit_price": "$1.85"
+  },
+  {
+    "brand": "SEAGO",
+    "title": "SEAGO Kids Electric Toothbrush with 2 Mins Brushing Timer and 4 Replacement Bursh Heads,Rainbow LED Light Make Brushing Fun, Purple Color Girls Battery Powerd Toothbrush for 4-7 Years Old",
+    "rating": 4.5,
+    "rating_count": 2510,
+    "price": "$16.99",
+    "recent_sales": "1000",
+    "unit_price": "$16.99"
+  },
+  {
+    "brand": "Sensodyne",
+    "title": "Sensodyne Clinical White Toothpaste Clinically Proven Whitening for Sensitive Teeth, Stain Protector, 3.4 Oz (Pack of 3)",
+    "rating": 4.6,
+    "rating_count": 1704,
+    "price": "$26.91",
+    "recent_sales": "20000",
+    "unit_price": "$2.64"
+  },
+  {
+    "brand": "Sensodyne",
+    "title": "Sensodyne Extra Whitening Sensitive Teeth and Cavity Prevention Whitening Toothpaste, Amazon Exclusive, Cool Mint -4 Ounces (Pack of 3)",
+    "rating": 4.8,
+    "rating_count": 6827,
+    "price": "$18.72",
+    "recent_sales": "70000",
+    "unit_price": "$1.56"
+  },
+  {
+    "brand": "Sensodyne",
+    "title": "Sensodyne Pronamel Fresh Breath Enamel Toothpaste for Sensitive Teeth and Cavity Protection, Fresh Wave - 4 oz (4 Pack)",
+    "rating": 4.8,
+    "rating_count": 6641,
+    "price": "$24.33",
+    "recent_sales": "10000",
+    "unit_price": "$1.52"
+  },
+  {
+    "brand": "Sensodyne",
+    "title": "Sensodyne Pronamel Gentle Teeth Whitening Enamel Toothpaste for Sensitive Teeth, to Reharden and Strengthen Enamel, Amazon Exclusive, Fresh Mint - 4 Ounces (Pack of 3)",
+    "rating": 4.8,
+    "rating_count": 7321,
+    "price": "$17.47",
+    "recent_sales": "100000",
+    "unit_price": "$1.46"
+  },
+  {
+    "brand": "Sensodyne",
+    "title": "Sensodyne Pronamel Intensive Enamel Repair Toothpaste for Sensitive Teeth and Cavity Protection, Whitening Toothpaste to Strengthen Enamel, Arctic Breeze - 3.4 Ounces (Pack of 4)",
+    "rating": 4.8,
+    "rating_count": 6851,
+    "price": "$20.99",
+    "recent_sales": "20000",
+    "unit_price": "$1.54"
+  },
+  {
+    "brand": "Sensodyne",
+    "title": "Sensodyne Pronamel Intensive Enamel Repair Toothpaste for Sensitive Teeth, to Reharden and Strengthen Enamel, Extra Fresh - 3.4 Ounces",
+    "rating": 4.7,
+    "rating_count": 50046,
+    "price": "$6.98",
+    "recent_sales": "30000",
+    "unit_price": "$2.05"
+  },
+  {
+    "brand": "Sensodyne",
+    "title": "Sensodyne Pronamel Intensive Enamel Repair Toothpaste for Sensitive Teeth, to Reharden and Strengthen Enamel, Extra Fresh - 3.4 Ounces (Pack of 3)",
+    "rating": 4.7,
+    "rating_count": 50046,
+    "price": "$18.72",
+    "recent_sales": "3000",
+    "unit_price": "$1.84"
+  },
+  {
+    "brand": "Sensodyne",
+    "title": "Sensodyne Repair and Protect Whitening Toothpaste, Toothpaste for Sensitive Teeth and Cavity Prevention, 3.4 oz (Pack of 2)",
+    "rating": 4.7,
+    "rating_count": 45288,
+    "price": "$12.48",
+    "recent_sales": "20000",
+    "unit_price": "$1.84"
+  },
+  {
+    "brand": "Sensodyne",
+    "title": "Sensodyne Repair and Protect Whitening Toothpaste, Toothpaste for Sensitive Teeth and Cavity Prevention, 3.4 oz (Pack of 4)",
+    "rating": 4.7,
+    "rating_count": 5418,
+    "price": "$20.99",
+    "recent_sales": "20000",
+    "unit_price": "$1.54"
+  },
+  {
+    "brand": "Tom's",
+    "title": "Tom's of Maine Fluoride-Free Antiplaque & Whitening Natural Toothpaste, Peppermint, 5.5 oz. (Pack of 2)",
+    "rating": 4.7,
+    "rating_count": 39537,
+    "price": "$12.17",
+    "recent_sales": "50000",
+    "unit_price": "$1.11"
+  },
+  {
+    "brand": "Tom's",
+    "title": "Tom's of Maine Fluoride-Free Rapid Relief Sensitive Toothpaste, Fresh Mint, 4 oz. 3-Pack (Packaging May Vary)",
+    "rating": 4.7,
+    "rating_count": 7584,
+    "price": "$17.85",
+    "recent_sales": "8000",
+    "unit_price": "$1.49"
+  },
+  {
+    "brand": "Tom's",
+    "title": "Tom's of Maine Whole Care Natural Toothpaste with Fluoride, Spearmint, 4 Ounce (Pack of 3), (Packaging May Vary)",
+    "rating": 4.7,
+    "rating_count": 11455,
+    "price": "$18.39",
+    "recent_sales": "8000",
+    "unit_price": "$1.53"
+  },
+  {
+    "brand": "Whole Foods Market",
+    "title": "365 by Whole Foods Market, Fluoride-Free Tartar Control and Whitening Toothpaste, 5.5 Ounce",
+    "rating": 4.3,
+    "rating_count": 697,
+    "price": "$5.99",
+    "recent_sales": "900",
+    "unit_price": "$1.09"
+  },
+  {
+    "brand": "Whole Foods Market",
+    "title": "365 by Whole Foods Market, Sensitive Toothpaste with Hemp Seed Oil, 5.5 OZ",
+    "rating": 4.1,
+    "rating_count": 170,
+    "price": "$5.99",
+    "recent_sales": "200",
+    "unit_price": "$1.09"
+  }
+]
